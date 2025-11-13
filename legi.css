@@ -17,6 +17,18 @@
     display: block;
     background-color: gray;
 }
+.iklan{
+    width: 16rem;
+    border-radius: 12px;
+    overflow: hidden;
+    margin: 20px;
+}
+.iklan img{
+    width: 100%;
+    height: 200px;
+    display: block;
+    background-color: gray;
+}
 .card:hover{
     background-color: aqua;
 }
@@ -40,4 +52,16 @@
             color: #fff;
             text-decoration: none;
           }
+          .category{
+            width: 100px;
+            border-radius: 100%;
+            overflow: hidden;
+             margin: 20px;
+          }
+            .category img{
+                width: 100%;
+                height: 100px;
+                display: block;
+                background-color: gray;
+            }
          
